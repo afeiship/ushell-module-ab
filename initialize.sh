@@ -6,6 +6,7 @@ ROOT_PATH=$(dirname $BASH_SOURCE);
 
 # 1. install deps
 brew install apr 
+brew install apr-util
 brew install pcre
 
 # 2. export env
