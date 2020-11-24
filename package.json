@@ -7,12 +7,7 @@
     "type": "git",
     "url": "git+https://github.com/afeiship/ushell-module-ab.git"
   },
-  "keywords": [
-    "ushell",
-    "unix",
-    "shell",
-    "ushell-module-ab"
-  ],
+  "keywords": [],
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/afeiship/ushell-module-ab/issues"
