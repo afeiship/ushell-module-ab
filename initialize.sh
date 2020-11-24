@@ -2,6 +2,8 @@
 ## path:
 ROOT_PATH=$(dirname $BASH_SOURCE);
 
+# https://zhuanlan.zhihu.com/p/59918109
+
 # 1. install deps
 brew install apr 
 brew install pcre
