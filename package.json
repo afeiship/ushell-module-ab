@@ -1,0 +1,30 @@
+{
+  "name": "@jswork/ushell-module-ab",
+  "version": "1.0.0",
+  "description": "Ushell module for apache ab.",
+  "main": "index.sh",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/afeiship/ushell-module-ab.git"
+  },
+  "keywords": [
+    "ushell",
+    "unix",
+    "shell",
+    "ushell-module-ab"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/afeiship/ushell-module-ab/issues"
+  },
+  "homepage": "https://github.com/afeiship/ushell-module-ab",
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  },
+  "scripts": {
+    "release": "release-it"
+  },
+  "devDependencies": {
+    "release-it": "^14.2.1"
+  }
+}
