@@ -2,10 +2,8 @@
 ## path:
 ROOT_PATH=$(dirname $BASH_SOURCE);
 
-# apr
-echo 'export PATH="/usr/local/opt/apr/bin:$PATH"' >> ~/.profile
-
-# apr-util
-echo 'export PATH="/usr/local/opt/apr-util/bin:$PATH"' >> ~/.profile
+# apr/apr-util
+export PATH="/usr/local/opt/apr/bin:$PATH"
+export PATH="/usr/local/opt/apr-util/bin:$PATH"
 
 unset ROOT_PATH;
